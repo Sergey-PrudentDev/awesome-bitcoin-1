@@ -40,6 +40,7 @@
 - [Bitcoin for Beginners (Guide)](https://www.coindesk.com/learn/bitcoin-101) - An introductory guide covering the basics of Bitcoin.
 - [How to Buy Bitcoin](https://www.coinbase.com/learn/buying/how-to-buy-bitcoin) - A guide to buying Bitcoin safely.
 - [Bitcoin Security Best Practices](https://bitcoin.org/en/secure-your-wallet) - Tips for keeping your Bitcoin safe.
+- [Twenty-One Million](https://why21million.com/book/) - A free, plain-arithmetic explainer book covering the 21M cap, halvings, and self-custody, plus a small toolkit (satoshi converter, halving countdown). No signup.
 
 ## Development Tools
 
